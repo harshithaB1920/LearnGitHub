@@ -1,3 +1,4 @@
+Hello! today, 25th Oct , i learnt usage of git and github! :)
 download git : https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fgit-scm.com%2Fdownloads
 
 exe file location --> cmd --> to find version : "git --version"
