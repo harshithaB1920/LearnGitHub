@@ -31,3 +31,5 @@ In the cmd prompt
 	git push origin master
 	To get the updated files from the remote repo to the local
 	git pull origin master
+
+(use "git restore --staged <file>..." to unstage)

@@ -1,0 +1,32 @@
+download git : https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fgit-scm.com%2Fdownloads
+
+exe file location --> cmd --> to find version : "git --version"
+
+In the cmd prompt
+	>>To create a local repo
+	git init
+	>>To stage a file 
+	git add <filename>
+	>>To commit a file
+	git commit <filename> -m "<your message>"
+	>>To view the files that are staged and not tracked
+	git status
+	>>To view the files that are staged and commited
+	git ls-files
+	>>To stage all the files
+	git add -A
+	>>to commit all the files
+	git commit -a -m "<your message>"
+	>>To connect the locall repo with the remote repo
+	git re
+
+	To stage all the files
+	git add -A
+	to commit all the files
+	git commit -a -m "<your message>"
+	To connect the locall repo with the remote repo
+	git remote add origin <remote repo url>
+	To push all the commited files to the remote repo
+	git push origin master
+	To get the updated files from the remote repo to the local
+	git pull origin master
